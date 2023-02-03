@@ -9,5 +9,6 @@ public class ortalama {
         matematik = input.nextInt();
         System.out.println(matematik);
         // command line
+        //ysk
     }
 }
