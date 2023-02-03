@@ -10,6 +10,7 @@ public class operators {
 
         String str = sonuc ? "Doğru" : "Değil"; // 1:0
         System.out.println(str);
+        //sirf degisiklik olsun die
 
     }
 }

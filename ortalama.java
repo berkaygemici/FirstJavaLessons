@@ -7,8 +7,11 @@ public class ortalama {
         Scanner input = new Scanner(System.in);
         System.out.print("Matematik notunuzu giriniz");
         matematik = input.nextInt();
-        System.out.println(matematik);
         fizik = input.nextInt();
+        kimya = input.nextInt();
+        turkce = input.nextInt();
+        tarih = input.nextInt();
+        muzik = input.nextInt();
 
     }
 }
