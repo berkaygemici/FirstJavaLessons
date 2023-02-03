@@ -8,7 +8,7 @@ public class ortalama {
         System.out.print("Matematik notunuzu giriniz");
         matematik = input.nextInt();
         System.out.println(matematik);
-        // command line
-        //ysk
+        fizik = input.nextInt();
+
     }
 }
