@@ -15,6 +15,7 @@ public class ortalama {
         //github hesap denemesi
         // bir deneme daha
         //lutfensondeneme
+        //ahahahha
 
     }
 }
