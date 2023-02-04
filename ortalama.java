@@ -13,6 +13,7 @@ public class ortalama {
         tarih = input.nextInt();
         muzik = input.nextInt();
         //github hesap denemesi
+        // bir deneme daha
 
     }
 }
