@@ -12,6 +12,7 @@ public class ortalama {
         turkce = input.nextInt();
         tarih = input.nextInt();
         muzik = input.nextInt();
+        //github hesap denemesi
 
     }
 }
