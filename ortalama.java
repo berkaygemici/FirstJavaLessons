@@ -16,6 +16,7 @@ public class ortalama {
         // bir deneme daha
         //lutfensondeneme
         //ahahahha
+        //lalalalalla
 
     }
 }
