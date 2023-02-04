@@ -14,6 +14,7 @@ public class ortalama {
         muzik = input.nextInt();
         //github hesap denemesi
         // bir deneme daha
+        //lutfensondeneme
 
     }
 }
