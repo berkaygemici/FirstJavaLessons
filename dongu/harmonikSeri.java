@@ -13,5 +13,4 @@ public class harmonikSeri {
         }
         System.out.println(harmonikSeri);
     }
-
 }
