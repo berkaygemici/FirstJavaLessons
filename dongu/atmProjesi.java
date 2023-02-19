@@ -59,3 +59,4 @@ public class atmProjesi {
 
     }
 }
+//TODO SQL E BAĞLI OLARAK ÇALIŞAN HESAP BİLGİSİ ÇEKEN SİSTEM YAP
